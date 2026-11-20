@@ -1,0 +1,10 @@
+/home/fykuo/.hermes/workspace/outputs/3F_lesson10_20261111.png
+/home/fykuo/.hermes/workspace/outputs/3F_lesson6_20261109.png
+/home/fykuo/.hermes/workspace/outputs/3F_summary_20261111.png
+/home/fykuo/.hermes/workspace/outputs/learning_map_20261108.png
+/home/fykuo/.hermes/workspace/projects/aco-drawing-loop/outputs/3F_lesson19_actual_20261112.png
+/home/fykuo/.hermes/workspace/projects/aco-drawing-loop/outputs/3F_lesson21_20261116.png
+/home/fykuo/.hermes/workspace/projects/aco-drawing-loop/outputs/3F_lesson23_20261113.png
+/home/fykuo/.hermes/workspace/projects/aco-drawing-loop/outputs/3F_lesson25_20261116.png
+/home/fykuo/.hermes/workspace/projects/aco-drawing-loop/outputs/3F_lesson26_20261116.png
+/home/fykuo/.hermes/workspace/projects/aco-drawing-loop/outputs/nine_exams_side_by_side_20261108.png
